@@ -46,20 +46,36 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 * **Merinovillaiset pitkät kalsarit**
 * **Merrell Men's Trail Glove 7** (Paljasjalkakengät leiriin/kävelyyn, pakkautuvat olemattomaan tilaan)
 * **Sealskinz -sukat** (Vedenpitävät kalvosukat "vapaudu vankilasta" -kortiksi kaatosateeseen)
-* **Merinovillasukat** (Yleiskäyttöön and ajoon)
+* **Merinovillasukat** (Yleiskäyttöön ja ajoon)
 
 ---
 
-## 3. Työkalut, Elektroniikka & Ensiapu (Reissun pelastajat)
+## 3. Majoitus, Leiriytyminen & Keittiö (Yöpyminen & Ruokailu)
 
-* **Minikompressori** (Rengaspaineiden tarkistukseen ja mahdollisen rengasrikon paikkauksen tueksi)
-* **Virtapankki** (Puhelimen, kypäräpuhelimen ja kompressorin lataamiseen ajopäivän jälkeen)
+### Majoitus
+* **MSR Mutha Hubba NX 3 -teltta** (Kolmen hengen tilava ja kevyt kupoliteltta, joka antaa erinomaisen suojan Pohjoisen vaihtelevissa keleissä)
+* **MSR Mutha Hubba NX 3 Footprint** (Lisämaavaate, joka suojaa teltan pohjaa kiviltä, oksilta ja maasta nousevalta kosteudelta)
+* **Armystyle-makuupussi** (Yökäyttöön leirissä)
+* **Yuzonc Sleeping Mat** (Kahden hengen paksu täytettävä retkipatja integroidulla jalkapumpulla ja tyynyillä, leveys 1.36 m)
+
+### Keittiö & Kahvittelu
+* **Soto WindMaster -retkikeitin** (Erittäin tuulivarma ja tehokas kaasupoltin Micro Regulator -venttiilillä – luotettava kumppani pohjoisen tunturituuliin)
+* **Primus PrimeTech 1.3 L -kattila** (Lämmönvaihtimella varustettu hyötysuhdekattila, joka säästää kaasua ja keittää vedet sekä ruoat erittäin nopeasti)
+* **230 g retkikaasu** (Yleiskoko, joka pakkautuu usein kätevästi kattilasarjan sisään kuljetuksen ajaksi)
+* **Aeropress Go (Pinkki)** (Kompakti matkakahvinkeitin, jossa on mukana kulkeva kuppi/suojakotelo – täydellinen laatuhetki aamupalalla telttakylässä)
+
+---
+
+## 4. Työkalut, Elektroniikka & Ensiapu (Reissun pelastajat)
+
+* **Minikompressori** (Rengaspaineiden tarkistukseen ja mahdollisen rengasrikon paikkauksen tueksi. Toimii myös Yuzonc-patjan täyttämisen nopeuttamisessa hätätilassa)
+* **Virtapankki** (Puhelimen, kypäräpuhelimen ja laitteiden lataamiseen ajopäivän jälkeen)
 * **Ensiapupakkaus** (Kattava EA-setti reissun turvaksi)
 * **Pieni mikrokuituliina visiirille** (Taskussa helposti saatavilla hyönteisten ja tiesuolan putsaukseen)
 
 ---
 
-## 4. Strategiset Ajoprofiilit (Todennäköisyysjärjestyksessä)
+## 5. Strategiset Ajoprofiilit (Todennäköisyysjärjestyksessä)
 
 ### 🌤️ Profiili 2: Standardi Pohjoisen Sää (+12°C ... +19°C) – [Todennäköisyys suurin]
 *Perusajopäivä Lapissa ja Norjan puolella, kun ilmasto viilenee.*
@@ -84,7 +100,7 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 ### 🔥 Profiili 0: Extreme-helteet (> +30°C) – [Todennäköisyys matala]
 *Kun ajetaan poikkeuksellisen kuuman aallon läpi ja kaikki ylimääräinen vaatetus on liikaa.*
 * **Ylävartalo:** Rukka RPS AFT -suojapaita suoraan ihoa vasten + LS2 Breeze Man -takki.
-* **Alavartalo:** Pelkät alushousut + Rukka Airtacama -housut (omilla suojillaun).
+* **Alavartalo:** Pelkät alushousut + Rukka Airtacama -housut (omilla suojillaan).
 * **Varusteet:** Mesh-ajohanskat + valetut korvatulpat.
 * **Miksi toimii:** Äärimmäinen ilmanvaihto päästää ajotuulen suoraan iholle viilentämään kroppaa, mutta turvallisuus säilyy täysin Level 2 -tasolla.
 
@@ -97,8 +113,8 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 
 ---
 
-## 5. Tärkeimmät Huomiot & Vinkit Matkalle
+## 6. Tärkeimmät Huomiot & Vinkit Matkalle
 
 1. **Siviilimoodi (Leiri / Ravintolat):** Kun pyörä parkkeerataan, ajokamppeet ja suojapaita voidaan jättää laukkuihin. Jalassa on kevyet ja tyylikkäät Haglöfs Mid Slim -housut ja yläkroppaa koristaa Särmän tyylikäs vaarinpaita tai jompikumpi merinohuppari.
 2. **Kypäräergonomia ja melunhallinta:** Valetut korvatulpat ovat reissun tärkeimpiä varusteita. Ne estävät huminan ja suhinan aiheuttamaa väsymystä (*fatigue*), jolloin jaksat ajaa turvallisesti pidempiä päiviä. Pidä mikrokuituliina taskussa, jotta visiirin saa putsattua nopeasti tauoilla.
-3. **Omavaraisuus rengas- ja sähkörikoissa:** Minikompressori ja virtapankki tekevät reissusta huomattavasti stressivapaamman.
+3. **Leirikeittiön tehokkuus:** Soto WindMaster ja Primus PrimeTech -kattilan lämmönvaihdin muodostavat erittäin energiatehokkaan kokonaisuuden. Keitin toimii luotettavasti kovassakin Jäämeren tuulessa ilman erillistä tuulisuojaa, ja lämmönvaihdinkattila minimoi kaasunkulutuksen. 230 gramman kaasu riittää hienosti reissun tarpeisiin, kun hyötysuhde on huipussaan. Pinkillä Aeropressilla kruunaat ruokailun.
