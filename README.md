@@ -51,7 +51,6 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 ## 3. Työkalut, Elektroniikka & Ensiapu (Reissun pelastajat)
 
 * **Minikompressori** (Rengaspaineiden tarkistukseen ja mahdollisen rengasrikon paikkauksen tueksi)
-* **Varakaapelit** (Käynnistyskaapelit pyörän akun hyytymisen varalle)
 * **Virtapankki** (Puhelimen, kypäräpuhelimen ja kompressorin lataamiseen ajopäivän jälkeen)
 * **Ensiapupakkaus** (Kattava EA-setti reissun turvaksi)
 * **Pieni mikrokuituliina visiirille** (Taskussa helposti saatavilla hyönteisten ja tiesuolan putsaukseen)
@@ -96,4 +95,4 @@ Tällä varusteyhdistelmällä pystyt helposti reagoimaan kaikkiin mahdollisiin 
 
 1. **Siviilimoodi (Leiri / Ravintolat):** Kun pyörä parkkeerataan, ajokamppeet ja suojapaita voidaan jättää laukkuihin. Jalassa on valmiiksi siistit Haglöfs Mid Slim -housut ja yläkroppaa koristaa Särmän tyylikäs vaarinpaita tai jompikumpi merinohuppari.
 2. **Kypäräergonomia ja melunhallinta:** Valetut korvatulpat ovat reissun tärkeimpiä varusteita. Ne estävät huminan ja suhinan aiheuttamaa väsymystä, jolloin jaksat ajaa turvallisesti pidempiä päiviä. Pidä mikrokuituliina taskussa, jotta visiirin saa putsattua nopeasti tauoilla.
-3. **Omavaraisuus rengas- ja sähkörikoissa:** Minikompressori, varakaapelit ja virtapankki tekevät reissusta huomattavasti stressivapaamman. Jos akku sippaa erämaassa tai rengaspaineita pitää muuttaa, pystyt toimimaan.
+3. **Omavaraisuus rengas- ja sähkörikoissa:** Minikompressori ja virtapankki tekevät reissusta huomattavasti stressivapaamman.
