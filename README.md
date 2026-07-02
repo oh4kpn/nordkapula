@@ -1,6 +1,6 @@
 # Nordkapp Moottoripyöräreissun Varustelista & Kerrospukeutumisanalysi
 
-Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian kahden viikon moottoripyöräreissulle Nordkappiin heinäkuun lopussa. Lista on rakennettu modulaarisen kerrospukeutumisen ja korkean turvallisuustason (CE Level 2) ympärille, mikä mahdollistaa nopean reagoinnin säänmuutoksiin etelän helteistä Jäämeren hyytävään viimaan.
+Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian kahden viikon moottoripyöräreissulle Nordkappiin heinäkuun lopussa. Lista on rakennettu modulaarisen kerrospukeutumisen ja korkean turvallisuustason (CE Level 2) ympärille, mikä mahdollimaa nopean reagoinnin säänmuutoksiin extreme-helteistä aina täydelliseen katastrofikeliin asti.
 
 ---
 
@@ -44,29 +44,38 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 
 ## 3. Strategiset Ajoprofiilit (Sään mukaan)
 
-Tällä varusteyhdistelmällä pystyt helposti reagoimaan kolmeen pääasialliseen säätyyppiin matkan varrella:
+Tällä varusteyhdistelmällä pystyt helposti reagoimaan kaikkiin mahdollisiin säätyyppeihin matkan varrella:
+
+### 🔥 Profiili 0: Extreme-helteet (> +30°C)
+*Kun ajetaan poikkeuksellisen kuuman aallon läpi ja kaikki ylimääräinen vaatetus on liikaa.*
+* **Ylävartalo:** Rukka RPS AFT -suojapaita suoraan ihoa vasten (ei aluspaitaa) + LS2 Breeze Man -takki.
+* **Alavartalo:** Pelkät alushousut + Rukka Airtacama -housut (omilla suojillaan, jolloin RPS-suojahousut jäävät laukkuun).
+* **Miksi toimii:** Äärimmäinen ilmanvaihto. Rukka RPS:n ja LS2 Breezen mesh-verkkokankaat päästävät ajotuulen suoraan iholle viilentämään kroppaa, mutta turvallisuus säilyy täysin Level 2 -tasolla. Airtacamoiden AFT-materiaali takaa maksimaalisen hengittävyyden alavartalolle ilman tuplahousukerrosta.
 
 ### ☀️ Profiili 1: Helleralli (+20°C ... +30°C)
-*Suomen halki ajaminen matkalla pohjoiseen.*
+*Suomen halki ajaminen matkalla pohjoiseen normaalissa kesäsäässä.*
 * **Ylävartalo:** Särmä merinovaarinpaita + Rukka RPS -suojapaita + LS2 Breeze Man -takki.
 * **Alavartalo:** Rukka RPS -suojahousut + Sweep Challenger Evo 2 -housut.
-* **Jalkineet:** Icon Stormhawk WP + ohuet merinosukat.
-* **Miksi toimii:** Täysin läpivirtaava mesh-rakenne (AFT/Breeze) takaa maksimaalisen ilmanvaihdon, mutta Level 2 -suojat pysyvät napakasti ja turvallisesti paikoillaan suoraan kropan myötäisesti.
+* **Miksi toimii:** Läpivirtaava rakenne toimii loistavasti, ja merinovillapaita tasaa lämpöä sekä siirtää kosteutta tehokkaasti estäen hien liimaamasta takkia ihoon. Level 2 -suojat istuvat napakasti paikoillaan suoraan suojahousuissa.
 
 ### 🌤️ Profiili 2: Standardi Pohjoisen Sää (+12°C ... +19°C)
 *Perusajopäivä Lapissa ja Norjan puolella, kun ilmasto viilenee.*
 * **Ylävartalo:** Särmä merinovaarinpaita + Rukka RPS -suojapaita + Sweep Challenger Evo 2 -takki (blokkaa tuulta paremmin kuin mesh-takki).
 * **Alavartalo:** Haglöfs Mid Slim Pant + Rukka Airtacama -housut (Airtacaman omilla suojilla, jolloin RPS-suojahousut ovat laukussa).
-* **Jalkineet:** Icon Stormhawk WP + merinosukat.
 * **Miksi toimii:** Joustavat Haglöfs Mid Slim -housut toimivat loistavana sisäisenä tuulensuojana ilmavien Airtacama-housujen alla ilman, että ajomukavuus tai liikkuvuus kärsii.
 
 ### 🌧️ Profiili 3: Jäämeri & "Täysi Rähinä" (+5°C ... +11°C + Kaatosade)
 *Nordkappin saari, tunturien ylitykset ja hyytävä Jäämeren viima.*
-* **Ylävartalo:** Särmä merinovaarinpaita + Rukka RPS -suojapaita + **Särmä merinohuppari** + Sweep-takki + **Richa -sadeasutakki**.
+* **Ylävartalo:** Särmä merinovaarinpaita + Rukka RPS + **Särmä merinohuppari** + Sweep-takki + **Richa -sadeasutakki**.
 * **Alavartalo:** Merinovillaiset pitkät kalsarit + Haglöfs Mid Slim Pant + Rukka Airtacama (suojilla) + **Richa -sadeasuhousut**.
-* **Jalkineet:** Icon Stormhawk WP + **Sealskinz -kalvosukat**.
-* **Kypärä:** Airoh Commander 2 (Pinlock ehdottomasti asennettuna huurtumista vastaan).
-* **Miksi toimii:** Richan sadeasu toimii äärimmäisenä tuulipussina, joka pysäyttää sateen ja viiman. Sen alle jäävät Särmän merinovaatteet luovat paksun, lämpimän ja eristävän ilmakerroksen. Sealskinz-sukat varmistavat, että jalat pysyvät kuivina, vaikka vesi pääsisi valumaan lahkeesta saappaan varresta sisään.
+* **Miksi toimii:** Richan sadeasu toimii äärimmäisenä tuulipussina, joka pysäyttää sateen ja viiman. Sen alle jäävät Särmän merinovaatteet luovat paksun, lämpimän ja eristävän ilmakerroksen. Sealskinz-sukat varmistavat, että jalat pysyvät kuivina.
+
+### 🥶 Profiili 4: "Pahin mahdollinen katastrofi" / Jääkausi (Jopa -10°C)
+*Kun heinäkuinen Lappi päättää yllättää ja tunturissa iskee täysi lumimyrsky ja Siperian viima.*
+* **Ylävartalo:** Särmä merinovaarinpaita + Rukka RPS -suojapaita + **Särmä merinohuppari + Fleece + aivan kaikki muutkin mukana olevat paidat** + Sweep Challenger Evo 2 -takki + **Richa -sadeasutakki** (tiivistämään paketti ja sulkemaan viima ulos).
+* **Alavartalo:** Merinovillaiset pitkät kalsarit + Haglöfs Mid Slim Pant + **Rukka Airtacama -housut + Sweep Challenger Evo 2 -housut** (päällekkäin) + **Richa -sadeasuhousut**.
+* **Jalkineet:** Icon Stormhawk WP + tuplamerinosukat + Sealskinz-kalvosukat.
+* **Miksi toimii:** Tämä on selviytymismoodi ("Michelin-mies"). Kun ilmaa sitovia kerroksia ja tuuliblokkeja (Haglöfs, kaksi paria ajohousuja, Richa-sadeasu) ladataan päällekkäin näin älytön määrä, kylmyys ei pääse iholle. Liikkuvuus saattaa muistuttaa robottia, mutta kroppa pysyy lämpimänä matalissa nopeuksissa ja tunturien ylityksissä.
 
 ---
 
