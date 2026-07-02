@@ -87,7 +87,7 @@ Tällä varusteyhdistelmällä pystyt helposti reagoimaan kaikkiin mahdollisiin 
 ### 🥶 Profiili 4: "Pahin mahdollinen katastrofi" / Jääkausi (Jopa -10°C)
 * **Ylävartalo:** Särmä merinovaarinpaita + Rukka RPS -suojapaita + **Molemmat merinohupparit + Fleece + aivan kaikki muutkin mukana olevat paidat** + Sweep-takki + **Richa -sadeasutakki** + **Merinoinen kauluri**.
 * **Alavartalo:** Merinovillaiset pitkät kalsarit + Haglöfs Mid Slim Pant + **Rukka Airtacama -housut + Sweep Challenger Evo 2 -housut** (päällekkäin) + **Richa -sadeasuhousut**.
-* **Jalkineet & Kädet:** Tuplamerinosukat + Sealskinz-kalvosukat + Lämpimät hanskat (sekä kahvanlämmittimet päälle).
+* **Jalkineet & Kädet:** Tuplamerinosukat + Sealskinz-kalvosukat + Lämpimät hanskat.
 * **Miksi toimii:** Selviytymismoodi ("Michelin-mies"). Kun ilmaa sitovia kerroksia ja tuuliblokkeja ladataan päällekkäin näin älytön määrä, kylmyys ei pääse iholle.
 
 ---
@@ -95,5 +95,5 @@ Tällä varusteyhdistelmällä pystyt helposti reagoimaan kaikkiin mahdollisiin 
 ## 5. Tärkeimmät Huomiot & Vinkit Matkalle
 
 1. **Siviilimoodi (Leiri / Ravintolat):** Kun pyörä parkkeerataan, ajokamppeet ja suojapaita voidaan jättää laukkuihin. Jalassa on valmiiksi siistit Haglöfs Mid Slim -housut ja yläkroppaa koristaa Särmän tyylikäs vaarinpaita tai jompikumpi merinohuppari.
-2. **Kypäräergonomia ja melunhallinta:** Valetut korvatulpat ovat reissun tärkeimpiä varusteita. Ne estävät huminan ja suhinan aiheuttamaa väsymystä ( fatigue ), jolloin jaksat ajaa turvallisesti pidempiä päiviä. Pidä mikrokuituliina taskussa, jotta visiirin saa putsattua nopeasti tauoilla.
-3. **Omavaraisuus rengas- ja sähkörikoissa:** Minikompressori, varakaapelit ja virtapankki tekevät reissusta huomattavasti stressivapaamman. Jos akku sippaa erämaassa tai rengas nappaa naulan, pystyt toimimaan itsenäisesti ilman hinaustoiveita.
+2. **Kypäräergonomia ja melunhallinta:** Valetut korvatulpat ovat reissun tärkeimpiä varusteita. Ne estävät huminan ja suhinan aiheuttamaa väsymystä, jolloin jaksat ajaa turvallisesti pidempiä päiviä. Pidä mikrokuituliina taskussa, jotta visiirin saa putsattua nopeasti tauoilla.
+3. **Omavaraisuus rengas- ja sähkörikoissa:** Minikompressori, varakaapelit ja virtapankki tekevät reissusta huomattavasti stressivapaamman. Jos akku sippaa erämaassa tai rengaspaineita pitää muuttaa, pystyt toimimaan.
