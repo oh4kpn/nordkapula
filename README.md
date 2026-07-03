@@ -2,14 +2,16 @@
 
 Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian kahden viikon moottoripyöräreissulle Nordkappiin heinäkuun lopussa. Lista on rakennettu modulaarisen kerrospukeutumisen, korkean turvallisuustason (CE Level 2) sekä matkaturvallisuutta ja -mukavuutta parantavien lisävarusteiden ympärille.
 
-> **Huomio lukijalle:** Heinäkuun lopulla suurin osa ajosta reitillä (Kolari ➔ Nordkapp ➔ Etelä-Suomi) tapahtuu todennäköisesti profiileilla 2–3. Profiilit 0 ja 4 ovat varautumista poikkeuksellisiin sääolosuhteisiin, jolloin dokumentti ja varustautuminen vastaavat realistisesti matkan tosiasioita.
+> **Huomio lukijalle:** Heinäkuun lopulla suurin osa ajosta reitillä (Kolari ➔ Nordkapp ➔ Etelä-Suomi) tapahtuu todennäköisesti profiileilla 2–3. Profiilit 0 ja 4 ovat varautumista poikkeuksellisiin sääolosuhteisiin, jolyin dokumentti ja varustautuminen vastaavat realistisesti matkan tosiasioita.
 
 ---
 
-## 0. Reissun Ratsu (Moottoripyörä)
+## 0. Reissun Ratsu & Pakkausratkaisu (Moottoripyörä)
 
-* **BMW R 1200 GS / R 1250 GS (Adventure)**
-  * Matkakumppanina luotettava ja monipuolinen saksalainen boksereiden kuningas, joka kantaa kuorman huomaamatta ja tarjoaa erinomaisen tuulensuojan sekä vakauden Pohjoisen pitkillä taipaleilla ja huonommillakin tunturiteillä.
+* **Honda Transalp XL700V**
+  * **Laukkusarja:** Kolme kovaa laukkua (sivulaukut + takalaukku) reissukamppeiden lukittavaan, tukevaan ja täysin säänkestävään säilytykseen.
+  * **Lisäpakkaus:** Moskon iso säkki sijoitettuna matkustajan paikalle — toimii samalla erinomaisena selkänojana pitkillä tunturisiirtymillä.
+  * **Kaatumaraukkapussit:** Kaatumarautoihin kiinnitetty pari pientä Savotan varustepussia, joissa kulkevat helposti ajosta käsin saatavilla olevat juomat sekä visiirinputsausnesteet.
 
 ---
 
@@ -78,7 +80,7 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 * **Minikompressori** (Rengaspaineiden tarkistukseen ja Yuzonc-patjan täyttämiseen)
 * **Virtapankki** (Puhelimen, kypäräpuhelimen ja laitteiden lataamiseen ajopäivän jälkeen)
 * **Ensiapupakkaus** (Kattava EA-setti reissun turvaksi)
-* **Pieni mikrokuituliina visiirille** (Taskussa helposti saatavilla huonon sään tai hyönteisten putsaukseen)
+* **Pieni mikrokuituliina visiirille** (Savotan pussissa helposti saatavilla hyönteisten ja tiesuolan putsaukseen)
 
 ---
 
@@ -89,38 +91,33 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 * **Ylävartalo:** Devold Lauparen Merino 190 Zip Neck + Rukka RPS -suojapaita + Sweep Challenger Evo 2 -takki + Merinoinen kauluri.
 * **Alavartalo:** Haglöfs Mid Slim Pant + Rukka Airtacama -housut (Airtacaman omilla suojilla, jolloin RPS-suojahousut ovat laukussa).
 * **Jalkineet:** Icon Stormhawk WP + merinosukat.
-* **Miksi toimii:** Joustavat Haglöfs Mid Slim -housut toimivat loistavana sisäisenä tuulensuojana ilmavien Airtacama-housujen alla. Kauluri estää viiman pääsyn takin sisään.
 
 ### 🌧️ Profiili 3: Jäämeri & Sadepäivät (+5°C ... +11°C + Kaatosade) – [Todennäköisyys korkea]
 *Nordkappin saari, tunturien ylitykset ja hyytävä Jäämeren viima.*
 * **Ylävartalo:** Devold Lauparen Merino 190 Zip Neck + Rukka RPS + Särmä merinohuppari + Sweep-takki + Richa -sadeasutakki + Merinoinen kauluri.
 * **Alavartalo:** Devold Lauparen Merino 190 Longs + Haglöfs Mid Slim Pant + Rukka Airtacama + Richa -sadeasuhousut.
 * **Jalkineet & Kädet:** Icon Stormhawk WP + Sealskinz -kalvosukat + Vedenpitävät ajohanskat.
-* **Miksi toimii:** Richan sadeasu toimii tuulipussina, ja sen alle jäävät merinovaatteet luovat paksun ja lämpimän ilmakerroksen. Vedenpitävät hanskat ja Sealskinz-sukat pitävät raajat kuivina.
 
 ### ☀️ Profiili 1: Helleralli (+20°C ... +30°C) – [Todennäköisyys kohtalainen]
-*Suomen halki ajaminen matkalla pohjoiseen normaalissa, lämpimässä kesäsäässä.*
+*Matkantekoa normaalissa, lämpimässä kesäsäässä.*
 * **Ylävartalo:** Särmä vaarinpaita tai Devold Zip Neck (auki) + Rukka RPS -suojapaita + LS2 Breeze Man -takki.
 * **Alavartalo:** Rukka RPS -suojahousut + Sweep Challenger Evo 2 -housut.
-* **Miksi toimii:** Läpivirtaava mesh-rakenne takissa ja housuissa viilentää tehokkaasti, ja merinovilla tasaa lämpöä sekä siirtää kosteutta iholta.
 
 ### 🔥 Profiili 0: Extreme-helteet (> +30°C) – [Todennäköisyys matala]
-*Kun ajetaan poikkeuksellisen kuuman aallon läpi ja kaikki ylimääräinen vaatetus on liikaa.*
+*Kun ajetaan poikkeuksellisen kuuman aallon läpi.*
 * **Ylävartalo:** Rukka RPS AFT -suojapaita suoraan ihoa vasten + LS2 Breeze Man -takki.
-* **Alavartalo:** Pelkät alushousut + Rukka Airtacama -housut (omilla suojillaan ilman RPS-suojahousuja).
+* **Alavartalo:** Pelkät alushousut + Rukka Airtacama -housut (omilla suojillaan).
 * **Varusteet:** Mesh-ajohanskat + valetut korvatulpat.
-* **Miksi toimii:** Äärimmäinen ilmanvaihto päästää ajotuulen suoraan iholle viilentämään kroppaa, mutta turvallisuus säilyy täysin CE Level 2 -tasolla.
 
 ### 🥶 Profiili 4: Emergency Mode (Poikkeuksellinen kylmyys tai pitkäkestoinen sade) – [Varautuminen]
-*Kun heinäkuinen Lappi yllättää ja tunturissa iskee täysi hyytävyys, räntäsade tai matka taittuu tuntikausia raskaassa rajuilmassa.*
+*Kun tunturissa iskee täysi hyytävyys tai pitkä rajuilma.*
 * **Ylävartalo:** Devold Lauparen Merino 190 Zip Neck + Rukka RPS -suojapaita + Molemmat merinohupparit + Särmä vaarinpaita + Sweep-takki + Richa -sadeasutakki + Merinoinen kauluri.
 * **Alavartalo:** Devold Lauparen Merino 190 Longs + Haglöfs Mid Slim Pant + Rukka Airtacama -housut + Sweep Challenger Evo 2 -housut (päällekkäin) + Richa -sadeasuhousut.
-* **Jalkineet & Kädet:** Tuplamerinosukat + Sealskinz-kalvosukat + Lämpimät hanskat (sekä pyörän kahvanlämmittimet täysille).
-* **Miksi toimii:** Selviytymismoodi. Koska ohuissa Haglöfs Mid Slim -housuissa on loistava 4-suuntainen stretch, ne mahdollistavat tämän poikkeuksellisen "tuplahousu"-kerrostuksen ajohousujen alla ilman, että jalkojen liikutettavuus muuttuu kokonaan kipsiksi.
+* **Jalkineet & Kädet:** Tuplamerinosukat + Sealskinz-kalvosukat + Lämpimät hanskat.
 
 ---
 
 ## 6. Tärkeimmät Huomiot & Vinkit Matkalle
-1. **Siviilimoodi (Leiri / Ravintolat):** Kun pyörä parkkeerataan, ajokamppeet ja suojapaita voidaan jättää laukkuihin. Jalassa on kevyet ja tyylikkäät Haglöfs Mid Slim -housut ja yläkroppaa koristaa Devoldin siisti vetoketjullinen merinopaita tai Särmän merinohuppari.
-2. **Lämpötilojen säätö lennosta:** Devold Zip Neck -paidan vetoketjullinen kaulus on loistava ajossa – sen saa avattua helposti tauoilla tai kun aurinko alkaa paistaa, ja nostettua ylös suojaamaan niskaa ja kaulaa viimalta heti sään kylmetessä.
-3. **Leirikeittiön tehokkuus:** Soto WindMaster ja Primus PrimeTech -kattilan lämmönvaihdin muodostavat erittäin energiatehokkaan kokonaisuuden. Keitin toimii luotettavasti kovassakin Jäämeren tuulessa ilman erillistä tuulisuojaa, ja lämmönvaihdinkattila minimoi kaasunkulutuksen. 230 gramman kaasu riittää hienosti reissun tarpeisiin, kun hyötysuhde on huipussaan. Pinkillä Aeropressilla kruunaat ruokailun.
+1. **Siviilimoodi (Leiri / Ravintolat):** Kun Transalp parkkeerataan, ajokamppeet ja suojapaita voidaan lukita koviin laukkuihin tai jättää Moskon säkkiin. Jalassa on kevyet Haglöfs Mid Slim -housut ja yläkroppaa koristaa Devoldin siisti vetoketjullinen merinopaita tai Särmän merinohuppari.
+2. **Käsillä oleva nesteytys & huolto:** Savotan etupussit kaatumarauoissa ovat loistava ergonomiavalinta. Juomapulloon yltää nopeasti lyhyilläkin valokuvaustauoilla, ja visiirinputsausneste sekä mikrokuituliina ovat heti saatavilla ilman, että takalaukkua tai Moskon säkkiä tarvitsee avata tien pientareella.
+3. **Leirikeittiön tehokkuus:** Soto WindMaster ja Primus PrimeTech -kattila toimivat energiatehokkaasti Jäämeren tuulessa. 230 gramman kaasu riittää hienosti koko kahden viikon reissulle, ja pinkillä Aeropress Go -keittimellä kruunaat aamut.
