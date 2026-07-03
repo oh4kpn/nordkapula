@@ -2,7 +2,7 @@
 
 Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian kahden viikon moottoripyöräreissulle Nordkappiin heinäkuun lopussa. Lista on rakennettu modulaarisen kerrospukeutumisen, korkean turvallisuustason (CE Level 2) sekä matkaturvallisuutta ja -mukavuutta parantavien lisävarusteiden ympärille.
 
-> **Huomio lukijalle:** Heinäkuun lopulla suurin osa ajosta reitillä (Kolari ➔ Nordkapp ➔ Etelä-Suomi) tapahtuu todennäköisesti profiileilla 2–3. Profiilit 0 ja 4 ovat varautumista poikkeuksellisiin sääolosuhteisiin, jolyin dokumentti ja varustautuminen vastaavat realistisesti matkan tosiasioita.
+> **Huomio lukijalle:** Heinäkuun lopulla suurin osa ajosta reitillä (Kolari ➔ Nordkapp ➔ Etelä-Suomi) tapahtuu todennäköisesti profiileilla 2–3. Muut profiilit ovat varautumista poikkeuksellisiin sääolosuhteisiin, jolloin dokumentti ja varustautuminen vastaavat realistisesti matkan tosiasioita.
 
 ---
 
@@ -38,7 +38,7 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 * **Kahdet ajohanskat:**
   * Mesh-hanskat (Kuumille keleille ja kaupunkipyöritykseen)
   * Lämpimät / vedenpitävät hanskat (Pohjoisen kylmille sadepäiville)
-* **Valetut korvatulpat** (Ehdottomat pitkillä siirtymillä poistamaan kypärämelua ja väsymystä)
+* **Valetut korvatulpat** (Ehdottomat pitkillä siirtymillä poistamaan kypärämelua)
 
 ### Kypärä & Jalkineet
 * **Airoh Commander 2 -kypärä** (Adventure-malli aurinkolipalla ja Pinlock-kalvolla)
@@ -64,23 +64,25 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 ### Majoitus
 * **MSR Mutha Hubba NX 3 -teltta** (Kolmen hengen tilava ja kevyt kupoliteltta, joka antaa erinomaisen suojan Pohjoisen vaihtelevissa keleissä)
 * **MSR Mutha Hubba NX 3 Footprint** (Lisämaavaate, joka suojaa teltan pohjaa kosteudelta)
-* **Armystyle-makuupussi** (Yökäyttöön leirissä)
+* **Armystyle-makuupussi** (Yökäyttöön leirissä ja mukana kans joku ohuen ohut silkkilakana)
 * **Yuzonc Sleeping Mat** (Kahden hengen paksu täytettävä retkipatja integroidulla jalkapumpulla ja tyynyillä, leveys 1.36 m)
+* **Retkipyyhe + uikkarit**
 
 ### Keittiö & Kahvittelu
 * **Soto WindMaster -retkikeitin** (Erittäin tuulivarma ja tehokas kaasupoltin Micro Regulator -venttiilillä – luotettava kumppani pohjoisen tunturituuliin)
-* **Primus PrimeTech 1.3 L -kattila** (Lämmönvaihtimella varustettu hyötysuhdekattila, joka säästää kaasua ja keittää vedet nopeasti)
-* **230 g retkikaasu** (Yleiskoko, joka pakkautuu siististi kattilasarjan sisään)
+* **Primus PrimeTech 1.3 L -kattila** (Lämmönvaihtimella varustettu hyötysuhdekattila, joka säästää kaasua ja keittää vedet nopeasti - mutta jäähtyy myös nopeasti)
+* **230 g retkikaasu**
 * **Aeropress Go (Pinkki)** (Kompakti matkakahvinkeitin, jossa on mukana kulkeva kuppi/suojakotelo)
 
 ---
 
 ## 4. Työkalut, Elektroniikka & Ensiapu (Reissun pelastajat)
 
-* **Minikompressori** (Rengaspaineiden tarkistukseen ja Yuzonc-patjan täyttämiseen)
-* **Virtapankki** (Puhelimen, kypäräpuhelimen ja laitteiden lataamiseen ajopäivän jälkeen)
+* **Minikompressori** (Rengaspaineiden tarkistukseen
+* **Retkipatjapumpu** (Yuzonc-patjan täyttämiseen)
+* **Virtapankki** (Puhelimen, kypäräpuhelimen ja muiden laitteiden lataamiseen ajopäivän jälkeen)
 * **Ensiapupakkaus** (Kattava EA-setti reissun turvaksi)
-* **Pieni mikrokuituliina visiirille** (Savotan pussissa helposti saatavilla hyönteisten ja tiesuolan putsaukseen)
+* **Pieni mikrokuituliina visiirille** (Savotan pussissa helposti saatavilla hyönteisten, poronpapanoiden ja tiesuolan putsaukseen)
 
 ---
 
