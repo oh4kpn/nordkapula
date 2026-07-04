@@ -69,10 +69,15 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 * **Retkipyyhe + uikkarit**
 
 ### Keittiö & Kahvittelu
-* **Soto WindMaster -retkikeitin** (Erittäin tuulivarma ja tehokas kaasupoltin Micro Regulator -venttiilillä – luotettava kumppani pohjoisen tunturituuliin)
-* **Primus PrimeTech 1.3 L -kattila** (Lämmönvaihtimella varustettu hyötysuhdekattila, joka säästää kaasua ja keittää vedet nopeasti - mutta jäähtyy myös nopeasti)
-* **230 g retkikaasu**
-* **Aeropress Go (Pinkki)** (Kompakti matkakahvinkeitin, jossa on mukana kulkeva kuppi/suojakotelo)
+* **Soto WindMaster -retkikeitin & Primus PrimeTech 1.3 L -kattila**
+  * Erittäin tuulivarma ja tehokas kaasupoltin Micro Regulator -venttiilillä. Lämmönvaihtimella varustettu hyötysuhdekattila säästää kaasua ja keittää vedet nopeasti (mutta jäähtyy myös nopeasti). 
+  * *Painoanalyysi:* Pelkkä keitin ja kattilarunko **352 g**
+* **230 g Primus Power Gas -retkikaasu**
+  * Pakkautuu nerokkaasti ja siististi Soto WindMaster -keittimen kanssa suoraan kattilan sisään (yhteispaino kattilarungon ja keittimen kanssa **734 g**), mikä minimoi hukkatilan laukuissa.
+* **AeroPress Go Plus (Pinkki)**
+  * Premium-tason täydellinen matkakahvijärjestelmä. Kaikki osat pakkautuvat integroidun, laadukkaan terästermosmukin (tumbler) sisään.
+  * *Miksi mukana:* Eristetty kaksiseinäinen teräsmuki pitää kahvin kuumana Pohjoisen viimassa, mikä säästää tilaa, sillä erillistä reissutermosmukia ei tarvitse pakata matkaan ollenkaan. Suurempi uutiskapasiteetti (295 ml) kuin perus-Gossa.
+  * *Painoanalyysi:* Vaa'alla mitattu **557 g** (koko järjestelmä mukineen ja suodattimineen).
 
 ---
 
