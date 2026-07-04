@@ -79,6 +79,12 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
   * *Miksi mukana:* Eristetty kaksiseinäinen teräsmuki pitää kahvin kuumana Pohjoisen viimassa, mikä säästää tilaa, sillä erillistä reissutermosmukia ei tarvitse pakata matkaan ollenkaan. Suurempi uutiskapasiteetti (295 ml) kuin perus-Gossa.
   * *Painoanalyysi:* Vaa'alla mitattu **557 g** (koko järjestelmä mukineen ja suodattimineen).
 
+### Leiriytyminen & Selviytyminen
+* **Sawyer MINI -vedensuodatin (Pakkauksineen)**
+  * Ultrakevyt ja kämmenelle mahtuva 0.1 mikronin kuitusuodatin, joka poistaa 99,99999 % bakteereista ja alkueläimistä.
+  * *Miksi mukana:* Mahdollistaa juomaveden ottamisen suoraan Lapin ja Ruijan puroista ilman keittämistä tai vatsataudin riskiä. Sopii suoraan tavallisiin kierrepulloihin (28 mm kierre).
+  * *Painoanalyysi:* Pelkkä suodatinyksikkö **~39 g** (kuivana), koko setti ruiskuineen ja pusseineen **~100 g**.
+
 ---
 
 ## 4. Työkalut, Elektroniikka & Ensiapu (Reissun pelastajat)
