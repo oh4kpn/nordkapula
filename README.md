@@ -125,7 +125,7 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 
 ## 6. Tärkeimmät Huomiot & Vinkit Matkalle
 
-1. **Painon säästö ja laukkutila:** Poistamalla suojat takeista ja housuista kuorivaatteista suli noin 2,3 kg painoa. Mikä tärkeämpää, tyhjät Rukka-asut muuttuvat "pehmeiksi kuoriksi", jotka rullautuvat äärimmäisen pieneen tilaan sivulaukkuihin silloin, kun niitä ei käytetä.
+1. **Painon säästö ja laukkutila:** Poistamalla suojat takeista ja housuista kuorivaatteista hävisi noin 2,3 kg painoa sekä yksi iso laukullinen tilaa, tyhjät Rukka-asut muuttuvat "pehmeiksi kuoriksi", jotka rullautuvat äärimmäisen pieneen tilaan sivulaukkuihin silloin, kun niitä ei käytetä.
 2. **Turvallisuuden maksimointi:** Koska RPS-suojapaita ja -suojahousut ovat päälläsi koko ajan ajon aikana, Level 2 -suojaus on jatkuvasti 100 % optimaalisessa kohdassa. Suojat eivät pääse liikahtamaan paikaltaan, vaikka päällä vaihtelisi löysempi LS2-verkkotakki tai Armatou-R.
 3. **Siviilimoodi helpottuu:** Kun Transalp parkkeerataan pitkäksi aikaa (esim. leiri tai ravintola), voit vain riisua ulomman Rukka/LS2-kuoren pois. RPS-paita ja -housut on helppo ja nopea riisua teltassa, jolloin alle jäävät suoraan siistit Devoldin merinot ja Haglöfsin retkeilyhousut siviilikäyttöön.
-4. **Äärimmäinen käsien suojaus:** LS2 Thermorain -päällyshanskat normaalien hanskojen päällä yhdistettynä pyörän kahvanlämmittimiin takaa sen, että sormesi eivät jäädy edes hyytävimmässä Jäämeren sumussa tai räntäsateessa.
+4. **Äärimmäinen käsien suojaus:** LS2 Thermorain -päällyshanskat normaalien hanskojen päällä takaa sen, että sormesi eivät jäädy edes hyytävimmässä Jäämeren sumussa tai räntäsateessa.
