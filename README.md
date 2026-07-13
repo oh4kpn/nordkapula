@@ -33,9 +33,10 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 * **Richa -sadeasutakki** (Ei suojia, pidetään mukana *vain* mahdolliseksi suojaksi verkkotakin/Airtacaman päälle, jos yllättävä kuuro iskee helteellä.)
 * **Richa -sadeasuhousut** (Ei suojia, verkkohousujen suojaksi kesken helteisen ajopäivän.)
 * **Merinoinen kauluri (Buff-tyyppinen) & Hiekanvärinen kypärähuppu** (Blokkaa ajoviiman kaula-aukosta ja suojaa niskaa viimalta.)
-* **Kahdet ajohanskat:**
+* **Ajohanskat & Päällyssuojat:**
   * Mesh-hanskat (Kuumille keleille ja kaupunkipyöritykseen)
-  * Lämpimät / vedenpitävät hanskat neonkeltaisilla yksityiskohdilla (Pohjoisen kylmille ja sumuisille sadepäiville)
+  * Lämpimät / vedenpitävät hanskat neonkeltaisilla yksityiskohdilla (Pohjoisen kylmille ja sumuisille ajopäiville)
+  * **LS2 Thermorain -sade- & lämpöhanskat** (Veden- ja tuulenpitävät päällyshanskat, jotka voidaan vetää helposti muiden ajohanskojen päälle tuomaan lisäeristystä ja täydellistä sadesuojaa ääriolosuhteissa)
 * **Valetut korvatulpat** (Ehdottomat pitkillä siirtymillä poistamaan kypärämelua)
 
 ### Kypärä & Jalkineet
@@ -107,12 +108,13 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 *Nordkappin saari, tunturien ylitykset ja hyytävä Jäämeren viima tai pitkäkestoinen sade.*
 * **Ylävartalo:** Devold Lauparen Merino 190 Zip Neck + paksu vihreä fleece / merinohuppari + Rukka Armatou-R -takki (Koko 56 vetää välikerroksen helposti sisäänsä) + Kypärähuppu/Kauluri.
 * **Alavartalo:** Devold Lauparen Merino 190 Longs + Haglöfs Mid Slim Pant + Rukka Armatou-R -housut (omilla suojillaan). *(Gore-Tex Pro -laminaatti pitää kaiken veden ulkona, ei tarvetta erillisille sadevaatteille).*
-* **Jalkineet & Kädet:** Icon Stormhawk WP + Sealskinz-kalvosukat + Lämpimät/vedenpitävät hanskat.
+* **Jalkineet & Kädet:** Icon Stormhawk WP + Sealskinz-kalvosukat + Vedenpitävät/lämpimät hanskat neonkeltaisilla yksityiskohdilla + tarvittaessa LS2 Thermorain -päällyshanskat päälle estämään viimaa ja kastumista.
 
 ### ☀️ Profiili 1: Helleralli (+20°C ... +25°C) – [Todennäköisyys kohtalainen]
 *Matkantekoa normaalissa, lämpimässä kesäsäässä matkan alku- ja loppuvaiheilla.*
 * **Ylävartalo:** Ohut merinoalusvaippa / Särmä vaarinpaita + Rukka RPS -suojapaita + LS2 Breeze Men -verkkotakki.
 * **Alavartalo:** Devold-merinoboxerit + Rukka Airtacama -housut (koossa 54, käytetään puvun omilla suojilla).
+* **Jalkineet & Kädet:** Icon Stormhawk WP + merinosukat + Mesh-hanskat.
 
 ### 🔥 Profiili 0: Extreme-helteet (> +25°C ... +30°C) – [Todennäköisyys matala]
 *Kun ajetaan poikkeuksellisen kuuman aallon läpi sisämaassa.*
@@ -122,14 +124,15 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 
 ### 🥶 Profiili 4: Emergency Mode (Poikkeuksellinen kylmyys tunturissa) – [Varautuminen]
 *Kun tunturissa iskee täysi hyytävyys, räntäsade tai lämpötila putoaa nollan tuntumaan.*
-* **Ylävartalo:** Särmä vaarinpaita + Devold Lauparen Merino Zip Neck + Fleece/Merinohuppari + Rukka Armatou-R -takki.
+* **Ylävartalo:** Särmä vaarinpaita + Devold Lauparen Merino Zip Neck + Fleece/Merinohuppari + Rukka Armatou-R -takki + Kypärähuppu ja kauluri.
 * **Alavartalo:** Devold Lauparen Merino 190 Longs + Haglöfs Mid Slim Pant + Rukka Armatou-R -housut (omilla suojillaan).
-* **Jalkineet & Kädet:** Vuorimerinosukat + Sealskinz-kalvosukat + Rukan hanskat + LS:n sadetta ja lämpöä eristävät lisäsuojat päälle
+* **Jalkineet & Kädet:** Vuorimerinosukat + Sealskinz-kalvosukat + Lämpimät vedenpitävät hanskat + **LS2 Thermorain -sadetta ja lämpöä eristävät lisäsuojat päälle** + kahvanlämmittimet täysille.
 
 ---
 
-## 6. Tärkeimmät Huomiot & Vinkit Matkalle
+## 6. Tärkeimmats Huomiot & Vinkit Matkalle
 
-1. **Siviilimoodi (Leiri / Ravintolat):** Kun Transalp parkkeerataan, ajokamppeet voidaan lukita koviin laukkuihin tai jättää Moskon säkkiin. Jalassa on kevyet Haglöfs Mid Slim -housut ja yläkroppaa koristaa Devoldin siisti vetoketjullinen merinopaita tai merinohuppari.
-2. **Käsillä oleva nesteytys & huolto:** Savotan etupussit kaatumaraudoissa ovat loistava ergonomiavalinta. Juomapulloon yltää nopeasti lyhyilläkin valokuvaustauoilla, ja visiirinputsausneste sekä mikrokuituliina ovat heti saatavilla ilman laukkujen availua.
-3. **Leirikeittiön tehokkuus:** Soto WindMaster ja Primus PrimeTech -kattila toimivat energiatehokkaasti Jäämeren tuulessa. 230 gramman kaasu riittää hienosti koko kahden viikon reissulle, ja Aeropress Go -keittimellä kruunaat aamut Jäämeren rannalla.
+1. **Äärimmäinen sormien suojaus:** LS2 Thermorain -päällyshanskojen lisääminen matkaan on loistava veto. Kun Jäämeren rannikon kylmyys, pitkäkestoinen vesisade tai sumu yrittää purra läpi, perushanskojen päälle vedettävä kalvokerros pysäyttää viiman täysin. Tämä pitää sormet toimintakykyisinä ja tehostaa huomattavasti myös pyörän omien kahvanlämmittimien hyötyä, kun lämpö ei karkaa ajoviimaan.
+2. **Siviilimoodi (Leiri / Ravintolat):** Kun Transalp parkkeerataan, ajokamppeet voidaan lukita koviin laukkuihin tai jättää Moskon säkkiin. Jalassa on kevyet Haglöfs Mid Slim -housut ja yläkroppaa koristaa Devoldin siisti vetoketjullinen merinopaita tai merinohuppari.
+3. **Käsillä oleva nesteytys & huolto:** Savotan etupussit kaatumaraudoissa ovat loistava ergonomiavalinta. Juomapulloon yltää nopeasti lyhyilläkin valokuvaustauoilla, ja visiirinputsausneste sekä mikrokuituliina ovat heti saatavilla ilman laukkujen availua.
+4. **Leirikeittiön tehokkuus:** Soto WindMaster ja Primus PrimeTech -kattila toimivat energiatehokkaasti Jäämeren tuulessa. 230 gramman kaasu riittää hienosti koko kahden viikon reissulle, ja Aeropress Go -keittimellä kruunaat aamut Jäämeren rannalla.
