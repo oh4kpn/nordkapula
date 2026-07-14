@@ -11,7 +11,10 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 * **Honda Transalp XL700V**
   * **Laukkusarja:** Kolme kovaa laukkua (sivulaukut + takalaukku) reissukamppeiden lukittavaan, tukevaan ja täysin säänkestävään säilytykseen.
   * **Lisäpakkaus:** Moskon iso säkki sijoitettuna matkustajan paikalle — toimii samalla erinomaisena selkänojana pitkillä tunturisiirtymillä.
-  * **Kaatumaraukkapussit:** Kaatumarautoihin kiinnitetty pari pientä Savotan varustepussia, joissa kulkevat helposti ajosta käsin saatavilla olevat juomat sekä visiirinputsausnesteet.
+  * **Kaatumarautalaukut (Sadevarusteille):** Kaatumarautoihin kiinnitetyt vedenpitävät ja helposti saavutettavat säkit:
+    * **LS2 Move Ahead 4L -putkilaukku** (Käytännössä ~3L suljettuna/rullattuna)
+    * **Westwind RW 3 -laukku** (3L)
+    * *Miksi tässä:* Richan sadetakki ja -housut pidetään pakattuna näihin laukkuihin. Ne ovat äärimmäisen nopeasti otettavissa käyttöön heti sateen alkaessa ilman muiden matkatavaroiden tonkimista.
 
 ---
 
@@ -32,8 +35,8 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 * **Kuumalle säälle: LS2 Breeze Man -takki (Koko XL)** (Täysiverkkotakki, käytetään RPS-suojapaidan päällä helteellä maksimoimaan ilmavirta.)
 
 ### Sadesuojaus, Kädet & Pää
-* **Richa -sadeasutakki** (Ei suojia, pidetään mukana *vain* suojaksi LS2-verkkotakin/Airtacaman päälle, jos yllättävä kuuro iskee helteellä.)
-* **Richa -sadeasuhousut** (Ei suojia, verkkohousujen suojaksi kesken helteisen ajopäivän.)
+* **Richa -sadeasutakki** (Ei suojia. Pakattu kaatumarautalaukkuun helposti saataville suojaksi LS2-verkkotakin päälle yllättävän sadekuuron iskiessä.)
+* **Richa -sadeasuhousut** (Ei suojia. Pakattu kaatumarautalaukkuun suojaksi Airtacama-verkkohousujen päälle.)
 * **Merinoinen kauluri (Buff-tyyppinen) & Hiekanvärinen kypärähuppu** (Blokkaa ajoviiman kaula-aukosta ja suojaa niskaa viimalta.)
 * **Ajohanskat & Päällyssuojat:**
   * Mesh-hanskat (Kuumille keleille ja kaupunkipyöritykseen)
@@ -56,7 +59,7 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 * **Särmä vaarinpaita / ohuempi merinopaita** (Ihonmyötäinen aluskerros)
 * **Merrell Men's Trail Glove 7** (Paljasjalkakengät leiriin/kävelyyn, pakkautuvat olemattomaan tilaan)
 * **Sealskinz -sukat** (Vedenpitävät kalvosukat extreme-olosuhteisiin)
-* **Merinovillasukat** (Yleiskäyttöön ja ajoon, mukana mm. vihreä-keltaiset teemasukat)
+* **Merinovillasukat** (Yleiskäyttöön and ajoon, mukana mm. vihreä-keltaiset teemasukat)
 
 ---
 
@@ -85,7 +88,7 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 * **Retkipatjapumppu** (Yuzonc-patjan täyttämiseen)
 * **Virtapankki** (Laitteiden lataamiseen ajopäivän jälkeen)
 * **Ensiapupakkaus** (Kattava EA-setti reissun turvaksi)
-* **Pieni mikrokuituliina visiirille** (Savotan pussissa helposti saatavilla hyönteisten ja tiesuolan putsaukseen)
+* **Pieni mikrokuituliina visiirille** (Pakattu helposti saataville hyönteisten ja tiesuolan putsaukseen)
 
 ---
 
@@ -100,20 +103,22 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 ### 🌧️ Profiili 3: Jäämeri & Sadepäivät (+5°C ... +11°C + Kaatosade) – [Todennäköisyys korkea]
 *Nordkappin saari, tunturien ylitykset ja hyytävä Jäämeren viima tai pitkäkestoinen sade.*
 * **Ylävartalo:** Devold Lauparen Merino 190 Zip Neck + **Rukka RPS -suojapaita** + paksu vihreä fleece / merinohuppari + Rukka Armatou-R -takki + Kypärähuppu/Kauluri.
-* **Alavartalo:** Devold Lauparen Merino 190 Longs + **Rukka RPS -suojahousut** + (tarvittaessa Haglöfs Mid Slim Pant väliin) + Rukka Armatou-R -housut.
-* **Jalkineet & Kädet:** Icon Stormhawk WP + Sealskinz-kalvosukat + Vedenpitävät/lämpimät hanskat + LS2 Thermorain -päällyshanskat päälle.
+* **Alavartalo:** Devold Lauparen Merino 190 Longs + **Rukka RPS -suojahousut** + (tarvittaessa Haglöfs Mid Slim Pant väliin) + Rukka Armatou-R -housut. *(Armatou-R-laminaatti pitää kaiken veden ulkona, ei tarvetta erillisille sadevaatteille).*
+* **Jalkineet & Kädet:** Icon Stormhawk WP + Sealskinz-kalvosukat + Vedenpitävät/lämpimät hanskat neonkeltaisilla yksityiskohdilla + LS2 Thermorain -päällyshanskat päälle.
 
 ### ☀️ Profiili 1: Helleralli (+20°C ... +25°C) – [Todennäköisyys kohtalainen]
 *Matkantekoa normaalissa, kesälämpimässä kesäsäässä matkan alku- ja loppuvaiheilla.*
 * **Ylävartalo:** Särmä vaarinpaita + **Rukka RPS -suojapaita** + LS2 Breeze Men -verkkotakki.
 * **Alavartalo:** Devold-merinoboxerit + **Rukka RPS -suojahousut** + Rukka Airtacama -housut (ilman omia suojiaan).
 * **Jalkineet & Kädet:** Icon Stormhawk WP + merinosukat + Mesh-hanskat.
+* *Huom:* Richan sadeasut valmiina kaatumarautojen LS2- ja Westwind-laukuissa äkillisen kuuron varalta.
 
 ### 🔥 Profiili 0: Extreme-helteet (> +25°C ... +30°C) – [Todennäköisyys matala]
 *Kun ajetaan poikkeuksellisen kuuman aallon läpi sisämaassa.*
 * **Ylävartalo:** **Rukka RPS AFT -suojapaita** suoraan ihoa vasten + LS2 Breeze Man -takki (maksimaalinen läpivirtaus).
 * **Alavartalo:** Devold-merinoboxerit + **Rukka RPS -suojahousut** + Rukka Airtacama -housut (ilman omia suojiaan).
 * **Varusteet:** Mesh-ajohanskat + valetut korvatulpat.
+* *Huom:* Richan sadeasut valmiina kaatumarautojen LS2- ja Westwind-laukuissa äkillisen kuuron varalta.
 
 ### 🥶 Profiili 4: Emergency Mode (Poikkeuksellinen kylmyys tunturissa) – [Varautuminen]
 *Kun tunturissa iskee täysi hyytävyys, räntäsade tai lämpötila putoaa nollan tuntumaan.*
@@ -125,7 +130,9 @@ Tämä dokumentti sisältää optimoidun varustelistan ja pukeutumisstrategian k
 
 ## 6. Tärkeimmät Huomiot & Vinkit Matkalle
 
-1. **Painon säästö ja laukkutila:** Poistamalla suojat takeista ja housuista kuorivaatteista hävisi noin 2,3 kg painoa sekä yksi iso laukullinen tilaa, tyhjät Rukka-asut muuttuvat "pehmeiksi kuoriksi", jotka rullautuvat äärimmäisen pieneen tilaan sivulaukkuihin silloin, kun niitä ei käytetä.
-2. **Turvallisuuden maksimointi:** Koska RPS-suojapaita ja -suojahousut ovat päälläsi koko ajan ajon aikana, Level 2 -suojaus on jatkuvasti 100 % optimaalisessa kohdassa. Suojat eivät pääse liikahtamaan paikaltaan, vaikka päällä vaihtelisi löysempi LS2-verkkotakki tai Armatou-R.
-3. **Siviilimoodi helpottuu:** Kun Transalp parkkeerataan pitkäksi aikaa (esim. leiri tai ravintola), voit vain riisua ulomman Rukka/LS2-kuoren pois. RPS-paita ja -housut on helppo ja nopea riisua teltassa, jolloin alle jäävät suoraan siistit Devoldin merinot ja Haglöfsin retkeilyhousut siviilikäyttöön.
-4. **Äärimmäinen käsien suojaus:** LS2 Thermorain -päällyshanskat normaalien hanskojen päällä takaa sen, että sormesi eivät jäädy edes hyytävimmässä Jäämeren sumussa tai räntäsateessa.
+1. **Painon säästö ja laukkutila:** Poistamalla suojat takeista ja housuista kuorivaatteista suli noin 2,3 kg painoa. Mikä tärkeämpää, tyhjät Rukka-asut muuttuvat "pehmeiksi kuoriksi", jotka rullautuvat äärimmäisen pieneen tilaan sivulaukkuihin tai Moskon säkkiin silloin, kun niitä ei käytetä.
+2. **Sadekamppeiden sijoitus (Kaatumarautalaukut):** Richan sadeasujen pakkaaminen kaatumarautoihin kiinnitettyihin **LS2 Move Ahead**- ja **Westwind RW 3** -laukkuihin on ergonomisesti loistava ratkaisu. Kun ajat helteellä mesh-vaatteissa ja taivaalta alkaa äkillinen kuuro, saat vedettyä sadevarusteet niskaasi sekunneissa suoraan pyörän pientareella ilman, että sinun tarvitsee avata takalaukkua tai Moskon säkkiä sateessa.
+3. **Turvallisuuden maksimointi:** Koska RPS-suojapaita ja -suojahousut ovat päälläsi koko ajan ajon aikana, Level 2 -suojaus on jatkuvasti 100 % optimaalisessa kohdassa. Suojat eivät pääse liikahtamaan paikaltaan, vaikka päällä vaihtelisi löysempi LS2-verkkotakki tai Armatou-R.
+4. **Siviilimoodi helpottuu:** Kun Transalp parkkeerataan pitkäksi aikaa (esim. leiri tai ravintola), voit vain riisua ulomman Rukka/LS2-kuoren pois. RPS-paita ja -housut on helppo ja nopea riisua teltassa, jolloin alle jäävät suoraan siistit Devoldin merinot ja Haglöfsin retkeilyhousut siviilikäyttöön.
+5. **Äärimmäinen käsien suojaus:** LS2 Thermorain -päällyshanskat normaalien hanskojen päällä yhdistettynä pyörän kahvanlämmittimiin takaa sen, että sormesi eivät jäädy edes hyytävimmässä Jäämeren sumussa tai räntäsateessa.
+6. **Leirikeittiön tehokkuus:** Soto WindMaster ja Primus PrimeTech -kattila toimivat energiatehokkaasti Jäämeren tuulessa. 230 gramman kaasu riittää hienosti koko kahden viikon reissulle, ja Aeropress Go -keittimellä kruunaat aamut Jäämeren rannalla.
